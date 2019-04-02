@@ -6,5 +6,8 @@
 2 avocados
 1 lime
 1 tsp salt
+<<<<<<< HEAD
 3 drops of tabasco
+=======
+>>>>>>> less-tabasco
 
